@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Timzkie!
 
-🎓 Student from Cebu, Philippines  
+🎓 BSIT student at Cebu Institute of Technology - University
 
 
 ## 🌅 A Bit About My Daily Life
@@ -21,7 +21,7 @@
 - BudgetEase
 
 
-## 📫 Connect with Me
+## 📫 Contact Me
 - Email: minozaernietimothy@gmail.com
 
 
