@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Timzkie!
 
-<!--
-**realtimzkie/realtimzkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student from Cebu, Philippines  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌅 A Bit About My Daily Life
+- 🎓 I spend most of my time balancing school, friends, and time for myself  
+- 🧩 I enjoy connecting ideas and understanding how systems and game logic come together  
+- 🌙 I like taking time to think about ideas and how things work  
+
+---
+
+## 🛠️ Skills & Tools
+- Programming: C / Java / PHP 
+- Web: HTML, CSS, JavaScript
+- Database: MySQL
+- Tools: Git, XAMPP
+
+---
+
+## 📌 Projects
+- 📚 Shadows of the Crown
+- BudgetEase
+
+---
+
+## 📫 Connect with Me
+- Email: minozaernietimothy@gmail.com
+
+---
+
+⭐ *“smile more, care less.”*
