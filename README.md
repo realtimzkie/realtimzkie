@@ -19,6 +19,7 @@
 ## 📌 Projects
 - 📚 Shadows of the Crown
 - BudgetEase
+- SideQuest (ongoing)
 - CoordiNation (ongoing)
 - SecondChance (ongoing)
 
