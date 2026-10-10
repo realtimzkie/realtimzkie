@@ -10,8 +10,8 @@
 
 
 ## 🛠️ Skills & Tools
-- Programming: C / Java / PHP 
-- Web: HTML, CSS, JavaScript
+- Programming: C / Java / PHP / Python
+- Web: HTML, CSS, JavaScript, React
 - Database: MySQL
 - Tools: Git, XAMPP
 
@@ -19,6 +19,8 @@
 ## 📌 Projects
 - 📚 Shadows of the Crown
 - BudgetEase
+- CoordiNation (ongoing)
+- SecondChance (ongoing)
 
 
 ## 📫 Contact Me
